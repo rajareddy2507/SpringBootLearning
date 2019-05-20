@@ -13,7 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class CoursesController {
 
 	@Autowired 
-	private CoursesBusiness coursesBusiness;
+	public static CoursesBusiness coursesBusiness;
 	@RequestMapping("/welcome")
 	public String sayHi(){
 		return "Hello";
