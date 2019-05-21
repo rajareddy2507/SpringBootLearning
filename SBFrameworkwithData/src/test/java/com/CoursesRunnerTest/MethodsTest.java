@@ -1,4 +1,4 @@
-package com.CoursesRunnerTest;
+/*package com.CoursesRunnerTest;
 
 import static org.junit.Assert.assertEquals;
 
@@ -15,3 +15,4 @@ public class MethodsTest {
 	}
 }
 
+*/
